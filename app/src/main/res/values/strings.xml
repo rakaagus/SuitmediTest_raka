@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Suitmedia Test</string>
+
+    <string-array name="data">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNJ_LHHUnVuqj3CkPO3PxifTiRQeJGeQe05eiJQJHXA&amp;s</item>
+    </string-array>
 </resources>

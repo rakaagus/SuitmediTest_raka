@@ -7,18 +7,19 @@ import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import androidx.core.view.isVisible
 import androidx.paging.LoadState
 import androidx.paging.PagingData
 import androidx.recyclerview.widget.DividerItemDecoration
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.raka.suitmediatest.R
+import com.raka.suitmediatest.data.local.DataFlashSale
 import com.raka.suitmediatest.data.remote.response.DataItem
 import com.raka.suitmediatest.databinding.ActivityThirdBinding
 import com.raka.suitmediatest.ui.AppViewModelFactory
+import com.raka.suitmediatest.ui.secondscreen.FlashSaleAdapter
 import com.raka.suitmediatest.ui.thirdscreen.adapter.LoadingAdapter
 import com.raka.suitmediatest.ui.thirdscreen.adapter.UserAdapter
-import java.util.Objects
 
 class ThirdActivity : AppCompatActivity() {
 
